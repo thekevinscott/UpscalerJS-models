@@ -2,6 +2,10 @@
   "name": "upscalerjs-models",
   "version": "0.1.0",
   "description": "Models for UpscalerJS",
+  "files": [
+    "LICENSE",
+    "models/**/*"
+  ],
   "scripts": {
   },
   "author": "Kevin Scott",
