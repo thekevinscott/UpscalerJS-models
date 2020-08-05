@@ -10,8 +10,8 @@ The models include:
 | [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 3x | ![3x](https://raw.githubusercontent.com/thekevinscott/UpscalerJS-models/master/examples/div2k/assets/3x.png)) |
 | [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 4x | ![4x](https://raw.githubusercontent.com/thekevinscott/UpscalerJS-models/master/examples/div2k/assets/4x.png)) |
 
-Sample image used for upscaling:
-![Sample image](https://raw.githubusercontent.com/thekevinscott/UpscalerJS-models/master/assets/flower.png)) |
+![Sample image](https://raw.githubusercontent.com/thekevinscott/UpscalerJS-models/master/assets/flower.png)
+Sample image used for upscaling
 
 ## Contributing
 
