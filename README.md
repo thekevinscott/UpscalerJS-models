@@ -6,9 +6,9 @@ The models include:
 
 | Dataset | Scale | Example |
 | --- | --- | --- |
-| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 2x | ![2x](./assets/2x.png) |
-| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 3x | ![3x](./assets/3x.png) |
-| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 4x | ![4x](./assets/4x.png) |
+| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 2x | ![2x](./examples/div2k/assets/2x.png) |
+| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 3x | ![3x](./examples/div2k/assets/3x.png) |
+| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 4x | ![4x](./examples/div2k/assets/4x.png) |
 
 ## Contributing
 
