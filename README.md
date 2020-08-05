@@ -5,7 +5,7 @@ Pre-trained models for use with [UpscalerJS](https://github.com/thekevinscott/Up
 The models include:
 
 | Dataset | Scale |
-| --- | --- |  --- |
+| --- | --- |
 | [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 2x |
 | [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 3x | 
 | [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 4x |
