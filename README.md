@@ -14,11 +14,15 @@ The models include:
 
 You'd like to contribute a new pretrained model? Awesome!
 
-To do so, you'll first need a model that runs in Javascript. Generally, that means that:
+You can get a sense of the existing pretrained models by checking out the examples folder above. Each pretrained model will have an entry (for models at different scales, they'll usually have a single README since they were trained using the same parameters and dataset).
+
+### New models
+
+To contribute a new pretrained model, you'll first need a model that runs in Javascript. Generally, that means that:
 
 1. the model be trained in Tensorflow or be tensorflow-compatible 
-2. that the model is able to be converted using the [TFJS Converter](https://www.npmjs.com/package/@tensorflow/tfjs-converter) (this means avoiding things like custom layers).
-3. It's good practice to quantize your model if doing so does not lead to a drastic change in accuracy, as quantization helps performance in the browser.
+2. the model can be converted using the [TFJS Converter](https://www.npmjs.com/package/@tensorflow/tfjs-converter) (this means avoiding things like custom layers).
+3. the model be quantized, if doing so does not lead to a drastic change in accuracy. Quantization helps performance in the browser. Try for the maximum quantization you can (8-bit).
 
 Once you've converted a model, you'll want to follow this checklist:
 
