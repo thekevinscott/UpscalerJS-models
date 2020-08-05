@@ -4,11 +4,11 @@ Pre-trained models for use with [UpscalerJS](https://github.com/thekevinscott/Up
 
 The models include:
 
-| Dataset | Scale |
-| --- | --- |
-| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 2x |
-| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 3x | 
-| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 4x |
+| Dataset | Scale | Example |
+| --- | --- | --- |
+| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 2x | ![2x](./assets/2x.png) |
+| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 3x | ![3x](./assets/3x.png) |
+| [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) | 4x | ![4x](./assets/4x.png) |
 
 ## Contributing
 
