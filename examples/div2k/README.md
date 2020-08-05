@@ -10,12 +10,12 @@ There are three scales:
 
 ## 2x
 
-![2x](./assets/2x.png)
+![2x](https://raw.githubusercontent.com/thekevinscott/UpscalerJS-models/master/examples/div2k/assets/2x.png)
 
 ## 3x
 
-![3x](./assets/3x.png)
+![3x](https://raw.githubusercontent.com/thekevinscott/UpscalerJS-models/master/examples/div2k/assets/3x.png)
 
 ## 4x
 
-![4x](./assets/4x.png)
+![4x](https://raw.githubusercontent.com/thekevinscott/UpscalerJS-models/master/examples/div2k/assets/4x.png)
