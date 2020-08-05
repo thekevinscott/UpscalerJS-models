@@ -2,6 +2,7 @@
   "name": "upscalerjs-models",
   "version": "0.1.3",
   "description": "Models for UpscalerJS",
+  "keywords": ["image super resolution", "image upscaling", "image enhancement", "tensorflow.js", "pretrained models"],
   "files": [
     "LICENSE",
     "models/**/*"
