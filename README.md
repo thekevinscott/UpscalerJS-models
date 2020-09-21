@@ -38,3 +38,7 @@ Once you've converted a model, you'll want to follow this checklist:
   * Special kudos if you provide a one-click Colab or Dockerfile for reproducing your results.
 * Open a PR against [UpscalerJS](https://github.com/thekevinscott/UpscalerJS)
   * Add your model to the [`MODELS` object](https://github.com/thekevinscott/UpscalerJS/blob/master/src/models.ts) so it can be loaded successfully.
+
+## Credits
+
+All models are trained using [`image-super-resolution`](https://github.com/idealo/image-super-resolution), an implementation of [ESRGAN](https://arxiv.org/pdf/1809.00219v2.pdf) by [@idealo](https://github.com/idealo).
